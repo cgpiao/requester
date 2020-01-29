@@ -1,0 +1,19 @@
+{
+    "name": "piaocg/requester",
+    "description": "Add Request Id Support in your Laravel Application",
+    "keywords": ["laravel", "request id"],
+    "license": "MIT",
+    "require": {},
+    "authors": [
+        {
+            "name": "ChengGuo Piao",
+            "homepage": "https://piaocg.com",
+            "email": "piaocg@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Piaocg\\Cors\\": "src/"
+        }
+    }
+}
